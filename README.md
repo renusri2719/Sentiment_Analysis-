@@ -1,1 +1,1 @@
-# Sentiment_Analysis-
+Sentiment Analysis — IMDb Movie Reviews Dataset: Sentiment analysis determines whether a movie review expresses a positive or negative opinion. The IMDb Movie Reviews Dataset contains thousands of labeled movie reviews. Text preprocessing, TF-IDF, Naive Bayes, Logistic Regression, and SVM can be used to classify review sentiment.
